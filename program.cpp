@@ -42,7 +42,7 @@ int main() {
 			cout<<player1<<" "<<"you have not enough balance"<<endl;;
 			goto b1;
 		}
-    b2:
+       b2:
 		cout<<"Hey, "<<player2<<" "<<"please enter your bet amount : $";
 		cin>>bet2;
 		if(bet2>balance2) {

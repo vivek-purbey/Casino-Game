@@ -5,9 +5,9 @@
 #include<windows.h>
 using namespace std;
 int main() {
-	cout<<setw(80)<<"--> WELCOME TO CASINO WORLD..."<<endl;
-	cout<<"\n\t--> [CASINO NUMBER GUESSING RULES]!!!\n";
-	cout<<"\t1. This game will be playing in between two players\n";
+    cout<<setw(80)<<"--> WELCOME TO CASINO WORLD..."<<endl;
+    cout<<"\n\t--> [CASINO NUMBER GUESSING RULES]!!!\n";
+    cout<<"\t1. This game will be playing in between two players\n";
     cout<<"\t2. Choose a guessing number between 1 to 10\n";
     cout<<"\t3. Winner gets 10 times of the money bet\n";
     cout<<"\t4. Wrong bet and you lose the amount you bet\n";
